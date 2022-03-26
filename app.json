@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cricketfantasy_react",
+    "slug": "cricketfantasy_react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
